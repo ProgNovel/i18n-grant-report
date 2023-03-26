@@ -1,0 +1,6 @@
+name = "i18n-widget"
+main = "src/index.ts"
+compatibility_date = "2023-03-22"
+kv_namespaces = [
+  { binding = "BUCKET", id = "a7cab9b5e48941d3ab586488beacb77d", preview_id = "06c7a7f729584e2ab861c767072ab15b" }
+]

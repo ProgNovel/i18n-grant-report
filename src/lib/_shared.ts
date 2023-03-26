@@ -1,0 +1,16 @@
+export const translateTo = {
+  US: "Translate to English (United States)",
+  GB: "Translate to English (United Kingdom)",
+  ES: "Traducir al español (España)",
+  MX: "Traducir al español (México)",
+  FR: "Traduire en français (France)",
+  CA: "Traduire en français (Canada)",
+  DE: "Übersetzen nach Deutsch (Deutschland)",
+  IT: "Tradurre in italiano (Italia)",
+  JP: "翻訳する (日本語)",
+  KR: "번역하기 (한국어)",
+  CN: "翻译成中文 (中国)",
+  TW: "翻譯成中文 (台灣)",
+  PT: "Traduzir para português (Portugal)",
+  BR: "Traduzir para português (Brasil)",
+};
